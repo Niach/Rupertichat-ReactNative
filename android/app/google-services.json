@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828947882476",
+    "firebase_url": "https://rupertichat.firebaseio.com",
+    "project_id": "rupertichat",
+    "storage_bucket": "rupertichat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828947882476:android:069f0507f57b560cb820c9",
+        "android_client_info": {
+          "package_name": "de.rupertichat.rupertichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828947882476-j6is9nr5ai1frgfp8cjarrpatfh9lpcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB6Brc1aDXvTlzQQkYCIpPKkLfJoUNxSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828947882476-j6is9nr5ai1frgfp8cjarrpatfh9lpcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

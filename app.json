@@ -1,8 +1,8 @@
 {
   "name": "RocketChatRN",
   "share": "ShareRocketChatRN",
-  "displayName": "RocketChatRN",
-  "server": "https://open.rocket.chat",
+  "displayName": "Rupertichat",
+  "server": "http://rupertichat.de:3000",
   "appGroup": "group.ios.chat.rocket",
   "appStoreID": "1272915472"
 }
