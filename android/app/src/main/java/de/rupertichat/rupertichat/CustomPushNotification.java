@@ -1,4 +1,4 @@
-package chat.rocket.reactnative;
+package de.rupertichat.rupertichat;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -289,7 +289,7 @@ public class CustomPushNotification extends PushNotification {
         intent.putExtra(NOTIFICATION_ID, notificationId);
 
         PendingIntent dismissPendingIntent = PendingIntent.getBroadcast(mContext, notificationId, intent, 0);
-        
+
         notification.setDeleteIntent(dismissPendingIntent);
     }
 

@@ -1,6 +1,6 @@
-package chat.rocket.reactnative.share;
+package de.rupertichat.rupertichat.share;
 
-import chat.rocket.reactnative.BuildConfig;
+import de.rupertichat.rupertichat.BuildConfig;
 
 import chat.rocket.SharePackage;
 

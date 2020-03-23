@@ -1,4 +1,4 @@
-package chat.rocket.reactnative;
+package de.rupertichat.rupertichat;
 
 import android.content.SharedPreferences;
 

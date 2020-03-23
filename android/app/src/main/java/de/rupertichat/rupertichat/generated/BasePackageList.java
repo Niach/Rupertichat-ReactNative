@@ -1,4 +1,4 @@
-package chat.rocket.reactnative.generated;
+package de.rupertichat.rupertichat.generated;
 
 import java.util.Arrays;
 import java.util.List;
